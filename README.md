@@ -57,7 +57,7 @@ To set up and run the project locally, follow these steps:
 2. **Navigate to the project folder:**
    
    ```bash
-  cd Edge_MobileApp_Dev_Flutter
+   cd Edge_MobileApp_Dev_Flutter
 
 
   ................
